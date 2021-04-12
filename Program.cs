@@ -54,6 +54,7 @@ namespace Aula77
             foreach (string obj in list)
             {
                 Console.WriteLine(obj);
+                Console.WriteLine("Mala Git");
             }
         }
     }
